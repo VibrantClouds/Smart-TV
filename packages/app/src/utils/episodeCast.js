@@ -1,4 +1,5 @@
 import $L from '@enact/i18n/$L';
+const forkCiUnused = 1;
 
 /**
  * Formats a role for an episode guest star using localized template.
